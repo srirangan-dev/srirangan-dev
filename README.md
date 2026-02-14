@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Sri Rangan
+# Hi, I'm Sri Rangan ✨ 
 
 Hi there! I'm a passionate developer who enjoys building clean, efficient, and scalable solutions.  
 I love solving real-world problems through code and continuously improving my skills.
