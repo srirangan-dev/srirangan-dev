@@ -22,11 +22,8 @@ Let's build something amazing together!
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=srirangan-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=srirangan-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=srirangan-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srirangan-dev&theme=dark&hide_border=false&count_private=true)
 
----
-https://github.com/srirangan-dev
+![GitHub Streak](https://streak-stats.demolab.com?user=srirangan-dev&theme=dark&hide_border=false)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srirangan-dev&theme=dark&layout=compact)
