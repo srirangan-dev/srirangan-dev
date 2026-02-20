@@ -26,4 +26,4 @@ Let's build something amazing together!
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=srirangan-dev&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srirangan-dev&theme=dark&layout=compact)
+
