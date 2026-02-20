@@ -27,6 +27,6 @@ Let's build something amazing together!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srirangan-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=srirangan-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+https://github.com/srirangan-dev
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
