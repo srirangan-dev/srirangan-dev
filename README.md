@@ -22,8 +22,6 @@ Let's build something amazing together!
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srirangan-dev&theme=dark&hide_border=false&count_private=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=srirangan-dev&theme=dark&hide_border=false)
 
 
