@@ -67,9 +67,9 @@ I love solving real-world problems through code and continuously improving my sk
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=srirangan-dev&label=Profile%20Views&color=7&icon=0&pretty=true" />
-</div>
+</div> -->
 
 <div align="center">
   <i>⭐ Star my repos if you find them useful!</i>
