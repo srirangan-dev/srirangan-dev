@@ -40,10 +40,10 @@ I love solving real-world problems through code and continuously improving my sk
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srirangan-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srirangan-dev&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=srirangan-dev&theme=tokyonight&hide_border=true" />
